@@ -1,0 +1,5 @@
+{
+  "name": "AI Invoice Generator",
+  "description": "An application that uses AI to generate beautifully designed invoices from your data. Simply fill in the details, choose a style, and let Gemini create a professional invoice for you.",
+  "requestFramePermissions": []
+}
